@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\Exercise1\Exercise1Application\bin\Debug\Exercise1Application.exe.config
+C:\Users\User\Source\Repos\Exercise1\Exercise1Application\bin\Debug\Exercise1Application.exe
+C:\Users\User\Source\Repos\Exercise1\Exercise1Application\bin\Debug\Exercise1Application.pdb
+C:\Users\User\Source\Repos\Exercise1\Exercise1Application\bin\Debug\Exercise1.dll
+C:\Users\User\Source\Repos\Exercise1\Exercise1Application\bin\Debug\Exercise1.pdb
+C:\Users\User\Source\Repos\Exercise1\Exercise1Application\obj\Debug\Exercise1Application.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Exercise1\Exercise1Application\obj\Debug\Exercise1Application.exe
+C:\Users\User\Source\Repos\Exercise1\Exercise1Application\obj\Debug\Exercise1Application.pdb
+C:\Users\User\Source\Repos\TestForJob\Exercise1Application\bin\Debug\Exercise1Application.exe.config
+C:\Users\User\Source\Repos\TestForJob\Exercise1Application\obj\Debug\Exercise1Application.exe
+C:\Users\User\Source\Repos\TestForJob\Exercise1Application\obj\Debug\Exercise1Application.pdb
+C:\Users\User\Source\Repos\TestForJob2\Exercise1\Exercise1Application\bin\Debug\Exercise1Application.exe.config
+C:\Users\User\Source\Repos\TestForJob2\Exercise1\Exercise1Application\obj\Debug\Exercise1Application.exe
+C:\Users\User\Source\Repos\TestForJob2\Exercise1\Exercise1Application\obj\Debug\Exercise1Application.pdb

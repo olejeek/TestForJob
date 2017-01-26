@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\Exercise1\Exercise1Test\bin\Debug\Exercise1Test.dll
+C:\Users\User\Source\Repos\Exercise1\Exercise1Test\bin\Debug\Exercise1Test.pdb
+C:\Users\User\Source\Repos\Exercise1\Exercise1Test\bin\Debug\Exercise1.dll
+C:\Users\User\Source\Repos\Exercise1\Exercise1Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Source\Repos\Exercise1\Exercise1Test\bin\Debug\Exercise1.pdb
+C:\Users\User\Source\Repos\Exercise1\Exercise1Test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Source\Repos\Exercise1\Exercise1Test\obj\Debug\Exercise1Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Exercise1\Exercise1Test\obj\Debug\Exercise1Test.dll
+C:\Users\User\Source\Repos\Exercise1\Exercise1Test\obj\Debug\Exercise1Test.pdb

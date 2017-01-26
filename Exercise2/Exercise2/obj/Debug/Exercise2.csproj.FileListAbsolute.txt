@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\TestForJob2\Exersize2\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\User\Source\Repos\TestForJob2\Exersize2\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\User\Source\Repos\TestForJob2\Exersize2\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\User\Source\Repos\TestForJob2\Exersize2\Exercise2\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\TestForJob2\Exersize2\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\User\Source\Repos\TestForJob2\Exersize2\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\User\Source\Repos\TestForJob3\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\User\Source\Repos\TestForJob3\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\User\Source\Repos\TestForJob3\Exercise2\Exercise2\obj\Debug\Exercise2.pdb

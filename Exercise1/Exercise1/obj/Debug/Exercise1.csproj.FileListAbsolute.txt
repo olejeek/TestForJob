@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Exercise1\Exercise1\bin\Debug\Exercise1.dll
+C:\Users\User\Source\Repos\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\User\Source\Repos\Exercise1\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Exercise1\Exercise1\obj\Debug\Exercise1.dll
+C:\Users\User\Source\Repos\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
